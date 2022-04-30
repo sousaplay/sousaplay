@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo Sousa
 
-- 🔭 Hoje trabalho na empresa FieldCraft
+- 🔭 Hoje trabalho na empresa Rede Revo
 - 💻 Sou um programador em JavaScript, Python e HTML
 - 💖 Namorando
 <div style="display: inline_block"><br>
@@ -12,7 +12,6 @@
   ##
  
 <div>
-  <a href="https://discord.gg/Yr2fbzRFCD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/rodrigosousa.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/dndhMcN3Zs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:contactorodrigosousa.ofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
